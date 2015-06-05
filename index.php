@@ -106,7 +106,7 @@
 				<div class="col s12 center">
 					<p class="left-align light">Robert Mews is a digital marketing strategist, user acquisition manager, web developer and YouTube partner. He's been a lead digital strategist at some of the leading digital advertising agencies in the US, including MRM Worldwide and OLSON. He's also worked for a SaaS startup, Grocery Shopping Network. His accomplishments include driving record user acquisition growth for Bettycrocker.com, making it a top-5 recipe destination on the web. He also worked with Spectracide Brands to increase mobile application downloads 1,000&#37; over a six-month period.</p>
 					<p class="left-align light">During Robert's free time, he develops websites for clients and friends. He's also built a YouTube following of 35,000 subscribers on a channel that's accumulated more than 8 million views to date. For his work in the social media space, he continues to work with multiple brands on sponsorship packages and community building activites.</p>
-					<p class="left-align light">For fun and enjoyment, Robert is all about competitive video games, traveling, and playing around with new technology. He's current side project is developing an application that allows Twitch streamers understand the best time to stream and their most loyal followers.</p>
+					<p class="left-align light">For fun and enjoyment, Robert is all about competitive video games, traveling, and playing around with new technology. Currently, Robert is developing an application that allows Twitch streamers the ability to understand the best time for them to stream to their most loyal followers.</p>
 				</div>
 			</div>
 		</div>
